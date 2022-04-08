@@ -1,2 +1,3 @@
 Hello
 xin chao
+Hoom nay hoc them ve Git
